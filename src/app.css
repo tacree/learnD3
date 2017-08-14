@@ -1,0 +1,15 @@
+.chart {
+    background: lightgray;
+    border: 1px solid darkgray;
+    min-width: 200px;
+    min-height: 350px;
+}
+
+
+.bar {
+    height: 30px;
+    color: green;
+    fill: lightgreen;
+    stroke: black;
+    stroke-width: 1;
+}

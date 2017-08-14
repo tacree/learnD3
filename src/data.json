@@ -1,0 +1,681 @@
+[{
+    "year": 2011,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "interstate",
+    "poor": 201.32,
+    "fair": 292.5,
+    "good": 15443.66,
+    "totalMiles": 15937.48
+}, {
+    "year": 2011,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "local",
+    "poor": 39.9,
+    "fair": 90.28,
+    "good": 79.16,
+    "totalMiles": 209.34
+}, {
+    "year": 2011,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "nonInterstateState",
+    "poor": 381.7,
+    "fair": 1082.96,
+    "good": 14661.19,
+    "totalMiles": 16125.85
+}, {
+    "year": 2012,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "interstate",
+    "poor": 121.91,
+    "fair": 340.07,
+    "good": 15595.66,
+    "totalMiles": 16057.64
+}, {
+    "year": 2012,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "local",
+    "poor": 36.26,
+    "fair": 272.32,
+    "good": 1378.51,
+    "totalMiles": 1687.09
+}, {
+    "year": 2012,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "nonInterstateState",
+    "poor": 526.85,
+    "fair": 1404.94,
+    "good": 19909.56,
+    "totalMiles": 21841.35
+}, {
+    "year": 2013,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "interstate",
+    "poor": 97.3,
+    "fair": 366.58,
+    "good": 15667.08,
+    "totalMiles": 16130.96
+}, {
+    "year": 2013,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "local",
+    "poor": 39.38,
+    "fair": 285.85,
+    "good": 1549.2,
+    "totalMiles": 1874.43
+}, {
+    "year": 2013,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "nonInterstateState",
+    "poor": 503.97,
+    "fair": 1456.71,
+    "good": 20080.03,
+    "totalMiles": 22040.71
+}, {
+    "year": 2014,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "interstate",
+    "poor": 118.34,
+    "fair": 427.6,
+    "good": 15615.12,
+    "totalMiles": 16161.06
+}, {
+    "year": 2014,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "local",
+    "poor": 38.82,
+    "fair": 286.39,
+    "good": 1561.36,
+    "totalMiles": 1886.57
+}, {
+    "year": 2014,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "nonInterstateState",
+    "poor": 411.17,
+    "fair": 1692.69,
+    "good": 19973.15,
+    "totalMiles": 22077.01
+}, {
+    "year": 2015,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "interstate",
+    "poor": 80.61,
+    "fair": 1027.17,
+    "good": 15155.22,
+    "totalMiles": "16263"
+}, {
+    "year": 2015,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "local",
+    "poor": 45.72,
+    "fair": 324.32,
+    "good": 1543.58,
+    "totalMiles": 1913.62
+}, {
+    "year": 2015,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "nonInterstateState",
+    "poor": 664.83,
+    "fair": 3310.23,
+    "good": 20357.87,
+    "totalMiles": 24332.93
+}, {
+    "year": 2016,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "interstate",
+    "poor": 155.64,
+    "fair": 843.58,
+    "good": 15289.81,
+    "totalMiles": 16289.03
+}, {
+    "year": 2016,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "local",
+    "poor": 83.82,
+    "fair": 295.8,
+    "good": 1332.83,
+    "totalMiles": 1712.45
+}, {
+    "year": 2016,
+    "measureTypeCd": "CRACKING",
+    "systemCd": "nonInterstateState",
+    "poor": 854.74,
+    "fair": 4178.51,
+    "good": 20267.53,
+    "totalMiles": 25300.78
+}, {
+    "year": 2011,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "interstate",
+    "poor": null,
+    "fair": 303.88,
+    "good": 708.24,
+    "totalMiles": 1012.12
+}, {
+    "year": 2011,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "local",
+    "poor": null,
+    "fair": 163.51,
+    "good": 45.83,
+    "totalMiles": 209.34
+}, {
+    "year": 2011,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "nonInterstateState",
+    "poor": null,
+    "fair": 396.74,
+    "good": 963.24,
+    "totalMiles": 1359.98
+}, {
+    "year": 2012,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "interstate",
+    "poor": null,
+    "fair": 234.88,
+    "good": 799.24,
+    "totalMiles": 1034.12
+}, {
+    "year": 2012,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "local",
+    "poor": null,
+    "fair": 53.36,
+    "good": 58.91,
+    "totalMiles": 112.27
+}, {
+    "year": 2012,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "nonInterstateState",
+    "poor": null,
+    "fair": 501.35,
+    "good": 1064.53,
+    "totalMiles": 1565.88
+}, {
+    "year": 2013,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "interstate",
+    "poor": null,
+    "fair": 259.6,
+    "good": 779.9,
+    "totalMiles": 1039.5
+}, {
+    "year": 2013,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "local",
+    "poor": null,
+    "fair": 48.82,
+    "good": 75.98,
+    "totalMiles": 124.8
+}, {
+    "year": 2013,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "nonInterstateState",
+    "poor": null,
+    "fair": 481.28,
+    "good": 1216.79,
+    "totalMiles": 1698.07
+}, {
+    "year": 2014,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "interstate",
+    "poor": null,
+    "fair": 266.94,
+    "good": 806.12,
+    "totalMiles": 1073.06
+}, {
+    "year": 2014,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "local",
+    "poor": null,
+    "fair": 49.28,
+    "good": 78.94,
+    "totalMiles": 128.22
+}, {
+    "year": 2014,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "nonInterstateState",
+    "poor": null,
+    "fair": 383.59,
+    "good": 1315.49,
+    "totalMiles": 1699.08
+}, {
+    "year": 2015,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "interstate",
+    "poor": null,
+    "fair": 273.74,
+    "good": 799.32,
+    "totalMiles": 1073.06
+}, {
+    "year": 2015,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "local",
+    "poor": null,
+    "fair": 53.5,
+    "good": 78.79,
+    "totalMiles": 132.29
+}, {
+    "year": 2015,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "nonInterstateState",
+    "poor": null,
+    "fair": 345.99,
+    "good": 1312.95,
+    "totalMiles": 1658.94
+}, {
+    "year": 2016,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "interstate",
+    "poor": 10.18,
+    "fair": 182.51,
+    "good": 1017.09,
+    "totalMiles": 1209.78
+}, {
+    "year": 2016,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "local",
+    "poor": null,
+    "fair": 57.24,
+    "good": 72.48,
+    "totalMiles": 129.72
+}, {
+    "year": 2016,
+    "measureTypeCd": "FAULTING",
+    "systemCd": "nonInterstateState",
+    "poor": 28.21,
+    "fair": 433.63,
+    "good": 1472.99,
+    "totalMiles": 1934.83
+}, {
+    "year": 2011,
+    "measureTypeCd": "IRI",
+    "systemCd": "interstate",
+    "poor": 661.95,
+    "fair": 3147.27,
+    "good": 12081.44,
+    "totalMiles": 15890.66
+}, {
+    "year": 2011,
+    "measureTypeCd": "IRI",
+    "systemCd": "nonInterstateState",
+    "poor": 1031.4,
+    "fair": 3813.46,
+    "good": 9683.06,
+    "totalMiles": 14527.92
+}, {
+    "year": 2012,
+    "measureTypeCd": "IRI",
+    "systemCd": "interstate",
+    "poor": 518.62,
+    "fair": 2305.35,
+    "good": 9380.88,
+    "totalMiles": 12204.85
+}, {
+    "year": 2012,
+    "measureTypeCd": "IRI",
+    "systemCd": "nonInterstateState",
+    "poor": 2616.67,
+    "fair": 5737.08,
+    "good": 11038.31,
+    "totalMiles": 19392.06
+}, {
+    "year": 2013,
+    "measureTypeCd": "IRI",
+    "systemCd": "interstate",
+    "poor": 443.56,
+    "fair": 2566.62,
+    "good": 10734.17,
+    "totalMiles": 13744.35
+}, {
+    "year": 2013,
+    "measureTypeCd": "IRI",
+    "systemCd": "nonInterstateState",
+    "poor": 2370.63,
+    "fair": 5789.79,
+    "good": 10962.35,
+    "totalMiles": 19122.77
+}, {
+    "year": 2014,
+    "measureTypeCd": "IRI",
+    "systemCd": "interstate",
+    "poor": 466.73,
+    "fair": 2893.61,
+    "good": 12277.54,
+    "totalMiles": 15637.88
+}, {
+    "year": 2014,
+    "measureTypeCd": "IRI",
+    "systemCd": "nonInterstateState",
+    "poor": 3027.3,
+    "fair": 6285.27,
+    "good": 12226.31,
+    "totalMiles": 21538.88
+}, {
+    "year": 2015,
+    "measureTypeCd": "IRI",
+    "systemCd": "interstate",
+    "poor": 440.01,
+    "fair": 2845.22,
+    "good": 13047.72,
+    "totalMiles": 16332.95
+}, {
+    "year": 2015,
+    "measureTypeCd": "IRI",
+    "systemCd": "local",
+    "poor": 1001.46,
+    "fair": 922.78,
+    "good": 261.73,
+    "totalMiles": 2185.97
+}, {
+    "year": 2015,
+    "measureTypeCd": "IRI",
+    "systemCd": "nonInterstateState",
+    "poor": 3731.7,
+    "fair": 8097.5,
+    "good": 16023.29,
+    "totalMiles": 27852.49
+}, {
+    "year": 2016,
+    "measureTypeCd": "IRI",
+    "systemCd": "interstate",
+    "poor": 493.55,
+    "fair": 2635.19,
+    "good": 12484.97,
+    "totalMiles": 15613.71
+}, {
+    "year": 2016,
+    "measureTypeCd": "IRI",
+    "systemCd": "local",
+    "poor": 759.27,
+    "fair": 700.01,
+    "good": 197.17,
+    "totalMiles": 1656.45
+}, {
+    "year": 2016,
+    "measureTypeCd": "IRI",
+    "systemCd": "nonInterstateState",
+    "poor": 3244.2,
+    "fair": 7141.9,
+    "good": 14694.87,
+    "totalMiles": 25080.97
+}, {
+    "year": 2011,
+    "measureTypeCd": "PSR",
+    "systemCd": "interstate",
+    "poor": 114.66,
+    "fair": 1473.03,
+    "good": 14438.11,
+    "totalMiles": 16025.8
+}, {
+    "year": 2011,
+    "measureTypeCd": "PSR",
+    "systemCd": "local",
+    "poor": 1.08,
+    "fair": 21.48,
+    "good": 186.78,
+    "totalMiles": 209.34
+}, {
+    "year": 2011,
+    "measureTypeCd": "PSR",
+    "systemCd": "nonInterstateState",
+    "poor": 98.39,
+    "fair": 1347.27,
+    "good": 15809.97,
+    "totalMiles": 17255.63
+}, {
+    "year": 2012,
+    "measureTypeCd": "PSR",
+    "systemCd": "interstate",
+    "poor": 199.48,
+    "fair": 1116.22,
+    "good": 14827.85,
+    "totalMiles": 16143.55
+}, {
+    "year": 2012,
+    "measureTypeCd": "PSR",
+    "systemCd": "local",
+    "poor": 1.7,
+    "fair": 104.01,
+    "good": 1584.38,
+    "totalMiles": 1690.09
+}, {
+    "year": 2012,
+    "measureTypeCd": "PSR",
+    "systemCd": "nonInterstateState",
+    "poor": 200.47,
+    "fair": 2478.51,
+    "good": 22093.56,
+    "totalMiles": 24772.54
+}, {
+    "year": 2013,
+    "measureTypeCd": "PSR",
+    "systemCd": "interstate",
+    "poor": 2.36,
+    "fair": 364.42,
+    "good": 15821.42,
+    "totalMiles": 16188.2
+}, {
+    "year": 2013,
+    "measureTypeCd": "PSR",
+    "systemCd": "local",
+    "poor": 1.76,
+    "fair": 116.25,
+    "good": 1759.06,
+    "totalMiles": 1877.07
+}, {
+    "year": 2013,
+    "measureTypeCd": "PSR",
+    "systemCd": "nonInterstateState",
+    "poor": 42.75,
+    "fair": 1391.31,
+    "good": 22779.56,
+    "totalMiles": 24213.62
+}, {
+    "year": 2014,
+    "measureTypeCd": "PSR",
+    "systemCd": "interstate",
+    "poor": 48.07,
+    "fair": 960.15,
+    "good": 15243.42,
+    "totalMiles": 16251.64
+}, {
+    "year": 2014,
+    "measureTypeCd": "PSR",
+    "systemCd": "local",
+    "poor": 3.9,
+    "fair": 115.13,
+    "good": 1770.32,
+    "totalMiles": 1889.35
+}, {
+    "year": 2014,
+    "measureTypeCd": "PSR",
+    "systemCd": "nonInterstateState",
+    "poor": 167.51,
+    "fair": 1529.23,
+    "good": 23388.67,
+    "totalMiles": 25085.41
+}, {
+    "year": 2015,
+    "measureTypeCd": "PSR",
+    "systemCd": "interstate",
+    "poor": 3.53,
+    "fair": 269.53,
+    "good": 16067.98,
+    "totalMiles": 16341.04
+}, {
+    "year": 2015,
+    "measureTypeCd": "PSR",
+    "systemCd": "local",
+    "poor": 52.35,
+    "fair": 429.96,
+    "good": 1888.63,
+    "totalMiles": 2370.94
+}, {
+    "year": 2015,
+    "measureTypeCd": "PSR",
+    "systemCd": "nonInterstateState",
+    "poor": 97.85,
+    "fair": 1308.87,
+    "good": 26563.44,
+    "totalMiles": 27970.16
+}, {
+    "year": 2016,
+    "measureTypeCd": "PSR",
+    "systemCd": "interstate",
+    "poor": 70.46,
+    "fair": 790.91,
+    "good": 15436.62,
+    "totalMiles": 16297.99
+}, {
+    "year": 2016,
+    "measureTypeCd": "PSR",
+    "systemCd": "local",
+    "poor": 197.46,
+    "fair": 585.48,
+    "good": 1071.84,
+    "totalMiles": 1854.78
+}, {
+    "year": 2016,
+    "measureTypeCd": "PSR",
+    "systemCd": "nonInterstateState",
+    "poor": 157.76,
+    "fair": 2059.51,
+    "good": 23731.41,
+    "totalMiles": 25948.68
+}, {
+    "year": 2011,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "interstate",
+    "poor": null,
+    "fair": 8951.73,
+    "good": 5973.63,
+    "totalMiles": 14925.36
+}, {
+    "year": 2011,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "nonInterstateState",
+    "poor": null,
+    "fair": 7184.32,
+    "good": 7581.55,
+    "totalMiles": 14765.87
+}, {
+    "year": 2012,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "interstate",
+    "poor": null,
+    "fair": 9405.06,
+    "good": 5618.47,
+    "totalMiles": 15023.53
+}, {
+    "year": 2012,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "local",
+    "poor": null,
+    "fair": 1217.81,
+    "good": 357.02,
+    "totalMiles": 1574.83
+}, {
+    "year": 2012,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "nonInterstateState",
+    "poor": null,
+    "fair": 10944.73,
+    "good": 9330.73,
+    "totalMiles": 20275.46
+}, {
+    "year": 2013,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "interstate",
+    "poor": null,
+    "fair": 9106.55,
+    "good": 5984.9,
+    "totalMiles": 15091.45
+}, {
+    "year": 2013,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "local",
+    "poor": null,
+    "fair": 1411.24,
+    "good": 338.39,
+    "totalMiles": 1749.63
+}, {
+    "year": 2013,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "nonInterstateState",
+    "poor": null,
+    "fair": 11459.14,
+    "good": 8883.5,
+    "totalMiles": 20342.64
+}, {
+    "year": 2014,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "interstate",
+    "poor": null,
+    "fair": 8850.48,
+    "good": 6237.51,
+    "totalMiles": 15087.99
+}, {
+    "year": 2014,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "local",
+    "poor": null,
+    "fair": 1402.2,
+    "good": 356.14,
+    "totalMiles": 1758.34
+}, {
+    "year": 2014,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "nonInterstateState",
+    "poor": null,
+    "fair": 11084.71,
+    "good": 9293.23,
+    "totalMiles": 20377.94
+}, {
+    "year": 2015,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "interstate",
+    "poor": null,
+    "fair": 9105.14,
+    "good": 6067.83,
+    "totalMiles": 15172.97
+}, {
+    "year": 2015,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "local",
+    "poor": null,
+    "fair": 1459.24,
+    "good": 319.37,
+    "totalMiles": 1778.61
+}, {
+    "year": 2015,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "nonInterstateState",
+    "poor": null,
+    "fair": 11061.45,
+    "good": 9377.69,
+    "totalMiles": 20439.14
+}, {
+    "year": 2016,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "interstate",
+    "poor": 32.13,
+    "fair": 3378.16,
+    "good": 11807.86,
+    "totalMiles": 15218.15
+}, {
+    "year": 2016,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "local",
+    "poor": 62.06,
+    "fair": 932.47,
+    "good": 1122.29,
+    "totalMiles": 2116.82
+}, {
+    "year": 2016,
+    "measureTypeCd": "RUTTING",
+    "systemCd": "nonInterstateState",
+    "poor": 214.93,
+    "fair": 5017.5,
+    "good": 20326.23,
+    "totalMiles": 25558.66
+}]
